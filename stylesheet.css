@@ -1,0 +1,15 @@
+.navbar{
+    background-color: #F2C4D0;
+}
+.navbar,li{
+    color:#77C7D9;
+}
+#logo{
+    height:30px;
+    width:30px;
+    margin-right:10px;
+}
+
+#openJumbo{
+    background-color: darkturquoise;
+}
